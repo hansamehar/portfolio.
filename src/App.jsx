@@ -1,7 +1,7 @@
 import About from "./Components/About";
 import Footer from "./Components/Footer";
 import Header from "./Components/Header";
-import Intro from "./Components/intro";
+import Intro from "./Components/Intro";
 import Projects from "./Components/Projects";
 import Skills from "./Components/Skills";
 
